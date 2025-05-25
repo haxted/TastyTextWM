@@ -1,5 +1,5 @@
-# TastyTextWM
+# TCWM
 
-A text-mode WM for TastyCrepeOS
+A WM for TastyCrepeOS.
 
 ## THIS PROJECT IS NOT IN DEVELOPMENT YET.
